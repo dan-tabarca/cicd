@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cicd-pipeline-train-schedule-git
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
@@ -13,3 +14,6 @@ Then, you can run the app with:
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+=======
+# cicd
+>>>>>>> b87e5d856d634c6c1e26c5cccd7632b269f88db4
